@@ -2,7 +2,10 @@
 
 <h1>Project Name</h1>
 
-<img src="https://placehold.co/1200x360/png?text=Project+Banner" alt="Project banner" width="100%" />
+<img src="./docs/banner.png" alt="Project banner" width="100%" />
+
+> [!NOTE]
+> Create a `/docs` directory in the project root and place the project banner, screenshots, and other documentation assets inside it.
 
 <br />
 <br />
