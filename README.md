@@ -10,7 +10,6 @@
 > Recommended banner size: **2400 × 720 px** (`docs/banner.png`).
 
 <br />
-<br />
 
 Short, clear description of the project in one sentence.
 
