@@ -36,7 +36,7 @@ Short, clear description of the project in one sentence.
 - [Contributing](#contributing)
 - [License](#license)
 
-## 📌 Overview
+## Overview
 
 This repository contains: [short description of the use case, target audience, and technical purpose].
 
@@ -46,21 +46,21 @@ You can also mention here:
 - who the project is for
 - which core technologies are used
 
-## ✨ Features
+## Features
 
 - Feature 1
 - Feature 2
 - Feature 3
 - Feature 4
 
-## ✅ Prerequisites
+## Prerequisites
 
 - Operating system: [Windows / macOS / Linux]
 - Language or runtime: [e.g. Node.js, Python, Java, .NET, Go]
 - Version: [e.g. Node.js 20+, Python 3.12+]
 - Additional tools: [e.g. Git, Docker, database, compiler]
 
-## 🚀 Installation
+## Installation
 
 ### 1. Clone the repository
 
@@ -111,7 +111,7 @@ API_URL=https://example.com
 
 If a file such as `.env`, `appsettings.json`, or `config.yaml` is used, describe the most important values here.
 
-## 📘 Usage
+## Usage
 
 Describe the main use cases or commands here.
 
@@ -126,7 +126,7 @@ Example workflow:
 2. Provide data or input
 3. Review the result
 
-## 🧪 Development
+## Development
 
 Useful commands for local development:
 
@@ -146,7 +146,7 @@ npm test
 
 If the repository uses other tools, add the relevant commands here.
 
-## 📦 Build and Deployment
+## Build and Deployment
 
 Describe the build process and the path to the target environment.
 
@@ -163,7 +163,7 @@ If relevant, include:
 - container or cloud deployment
 - manual follow-up steps
 
-## 🤝 Contributing
+## Contributing
 
 Contributions are welcome. A possible workflow:
 
@@ -175,19 +175,19 @@ Contributions are welcome. A possible workflow:
 
 If the project has its own rules, link to `CONTRIBUTING.md` here.
 
-## 📄 License
+## License
 
 This project is licensed under [LICENSE NAME].
 
 If no license is present, add the desired license file or the appropriate notice here.
 
-## 📬 Contact
+## Contact
 
 - Contact person: [name or team]
 - Email: [email address]
 - Project page: [link]
 
-## 👥 Maintainers
+## Maintainers
 
 <table>
 	<tr>
