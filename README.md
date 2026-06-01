@@ -15,9 +15,9 @@ Short, clear description of the project in one sentence.
 
 <br />
 
-<a href="#installation">Quick Start</a> ·
-<a href="#features">Features</a> ·
-<a href="#maintainers">Maintainers</a>
+[Quick Start](#installation) ·
+[Features](#features) ·
+[Maintainers](#maintainers)
 
 </div>
 
