@@ -8,9 +8,9 @@
 
 Short, clear description of the project in one sentence.
 
-[![License](https://img.shields.io/badge/license-MIT-green.svg)](#license)
+[![License](https://img.shields.io/badge/license-license-green.svg)](#license)
 [![Status](https://img.shields.io/badge/status-active-success.svg)](#overview)
-[![Language](https://img.shields.io/badge/language-TypeScript-blue.svg)](#overview)
+[![Language](https://img.shields.io/badge/language-language-blue.svg)](#overview)
 
 <!-- Optional GitHub badges -->
 
