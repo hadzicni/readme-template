@@ -5,6 +5,7 @@
 <img src="https://placehold.co/1200x360/png?text=Project+Banner" alt="Project banner" width="100%" />
 
 <br />
+<br />
 
 Short, clear description of the project in one sentence.
 
