@@ -14,22 +14,26 @@ Short, clear description of the project in one sentence.
 [![Language](https://img.shields.io/badge/language-language-blue.svg)](#overview)
 
 <!-- Optional GitHub badges -->
+<!-- Replace USERNAME and REPOSITORY -->
 
-[![GitHub Stars](https://img.shields.io/github/stars/USERNAME/REPOSITORY)](https://github.com/USERNAME/REPOSITORY/stargazers)
-[![GitHub Issues](https://img.shields.io/github/issues/USERNAME/REPOSITORY)](https://github.com/USERNAME/REPOSITORY/issues)
-[![GitHub Release](https://img.shields.io/github/v/release/USERNAME/REPOSITORY)](https://github.com/USERNAME/REPOSITORY/releases)
+[![Release](https://img.shields.io/github/v/release/USERNAME/REPOSITORY)](https://github.com/USERNAME/REPOSITORY/releases)
+[![Stars](https://img.shields.io/github/stars/USERNAME/REPOSITORY)](https://github.com/USERNAME/REPOSITORY/stargazers)
+[![Issues](https://img.shields.io/github/issues/USERNAME/REPOSITORY)](https://github.com/USERNAME/REPOSITORY/issues)
+[![Last Commit](https://img.shields.io/github/last-commit/USERNAME/REPOSITORY)](https://github.com/USERNAME/REPOSITORY/commits)
 
 <br />
 
 [Quick Start](#installation) ·
 [Features](#features) ·
-[Maintainers](#maintainers)
+[Usage](#usage) ·
+[Contributing](#contributing)
 
 </div>
 
-## Contents
+## Table of Contents
 
 * [Overview](#overview)
+* [Tech Stack](#tech-stack)
 * [Features](#features)
 * [Prerequisites](#prerequisites)
 * [Installation](#installation)
@@ -37,6 +41,7 @@ Short, clear description of the project in one sentence.
 * [Usage](#usage)
 * [Development](#development)
 * [Build and Deployment](#build-and-deployment)
+* [Security](#security)
 * [Contributing](#contributing)
 * [Maintainers](#maintainers)
 * [Contact](#contact)
@@ -51,6 +56,17 @@ You can also mention here:
 - which problem the project solves
 - who the project is for
 - which core technologies are used
+
+## Tech Stack
+
+| Category | Technology |
+|-----------|-----------|
+| Language | [Technology] |
+| Framework | [Technology] |
+| Database | [Technology] |
+| Testing | [Technology] |
+| CI/CD | [Technology] |
+| Deployment | [Technology] |
 
 ## Features
 
@@ -169,6 +185,24 @@ If relevant, include:
 - container or cloud deployment
 - manual follow-up steps
 
+## Security
+
+If you discover a security vulnerability, please do not open a public issue.
+
+Instead, report it privately:
+
+- Email: security@example.com
+- Maintainer: Project Team
+
+We will investigate and provide updates as quickly as possible.
+
+### Supported Versions
+
+| Version | Supported |
+|----------|----------|
+| Latest | ✅ |
+| Older versions | ❌ |
+
 ## Contributing
 
 Contributions are welcome. A possible workflow:
@@ -181,20 +215,9 @@ Contributions are welcome. A possible workflow:
 
 If the project has its own rules, link to `CONTRIBUTING.md` here.
 
-## License
-
-This project is licensed under the [LICENSE NAME] License.
-
-See [LICENSE](LICENSE) for details.
-
-## Contact
-
-- Contact person: [name or team]
-- Email: [email address]
-- Project page: [link]
-
 ## Maintainers
 
+<!-- Duplicate the <td> block for additional maintainers -->
 <table>
 	<tr>
 		<td align="center" width="180">
@@ -208,3 +231,15 @@ See [LICENSE](LICENSE) for details.
 		</td>
 	</tr>
 </table>
+
+## Contact
+
+- Contact person: [name or team]
+- Email: [email address]
+- Project page: [link]
+
+## License
+
+This project is licensed under the [LICENSE NAME] License.
+
+See [LICENSE](LICENSE) for details.
