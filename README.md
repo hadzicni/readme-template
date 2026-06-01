@@ -5,7 +5,9 @@
 <img src="./docs/banner.png" alt="Project banner" width="100%" />
 
 > [!NOTE]
-> Create a `/docs` directory in the project root and place the project banner, screenshots, and other documentation assets inside it.
+> Create a `/docs` directory in the project root and place the project banner, screenshots, diagrams, and other documentation assets inside it.
+>
+> Recommended banner size: **2400 × 720 px** (`docs/banner.png`).
 
 <br />
 <br />
