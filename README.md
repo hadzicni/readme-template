@@ -1,6 +1,6 @@
-# Project Name
-
 <div align="center">
+
+<h1>Project Name</h1>
 
 <img src="https://placehold.co/1200x360/png?text=Project+Banner" alt="Project banner" width="100%" />
 
