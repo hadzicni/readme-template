@@ -177,9 +177,9 @@ If the project has its own rules, link to `CONTRIBUTING.md` here.
 
 ## License
 
-This project is licensed under [LICENSE NAME].
+This project is licensed under the ******* License.
 
-If no license is present, add the desired license file or the appropriate notice here.
+See [LICENSE](LICENSE) for details.
 
 ## Contact
 
