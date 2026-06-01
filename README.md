@@ -97,7 +97,7 @@ dotnet restore
 npm run dev
 ```
 
-## ⚙️ Configuration
+## Configuration
 
 Set the required environment variables and configuration values.
 
