@@ -8,10 +8,15 @@
 
 Short, clear description of the project in one sentence.
 
-[![License](https://img.shields.io/badge/license-LICENSE-lightgrey.svg)](#license)
+[![License](https://img.shields.io/badge/license-MIT-green.svg)](#license)
 [![Status](https://img.shields.io/badge/status-active-success.svg)](#overview)
-[![Language](https://img.shields.io/badge/language-LANGUAGE-blue.svg)](#overview)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](#contributing)
+[![Language](https://img.shields.io/badge/language-TypeScript-blue.svg)](#overview)
+
+<!-- Optional GitHub badges -->
+
+[![GitHub Stars](https://img.shields.io/github/stars/USERNAME/REPOSITORY)](https://github.com/USERNAME/REPOSITORY/stargazers)
+[![GitHub Issues](https://img.shields.io/github/issues/USERNAME/REPOSITORY)](https://github.com/USERNAME/REPOSITORY/issues)
+[![GitHub Release](https://img.shields.io/github/v/release/USERNAME/REPOSITORY)](https://github.com/USERNAME/REPOSITORY/releases)
 
 <br />
 
@@ -23,18 +28,18 @@ Short, clear description of the project in one sentence.
 
 ## Contents
 
-- [Overview](#overview)
-- [Features](#features)
-- [Prerequisites](#prerequisites)
-- [Installation](#installation)
-- [Configuration](#configuration)
-- [Usage](#usage)
-- [Development](#development)
-- [Build and Deployment](#build-and-deployment)
-- [Contact](#contact)
-- [Maintainers](#maintainers)
-- [Contributing](#contributing)
-- [License](#license)
+* [Overview](#overview)
+* [Features](#features)
+* [Prerequisites](#prerequisites)
+* [Installation](#installation)
+* [Configuration](#configuration)
+* [Usage](#usage)
+* [Development](#development)
+* [Build and Deployment](#build-and-deployment)
+* [Contributing](#contributing)
+* [Maintainers](#maintainers)
+* [Contact](#contact)
+* [License](#license)
 
 ## Overview
 
@@ -65,8 +70,8 @@ You can also mention here:
 ### 1. Clone the repository
 
 ```bash
-git clone <REPOSITORY-URL>
-cd <PROJECT-FOLDER>
+git clone https://github.com/USERNAME/REPOSITORY.git
+cd REPOSITORY
 ```
 
 ### 2. Install dependencies
@@ -177,7 +182,7 @@ If the project has its own rules, link to `CONTRIBUTING.md` here.
 
 ## License
 
-This project is licensed under the ******* License.
+This project is licensed under the [LICENSE NAME] License.
 
 See [LICENSE](LICENSE) for details.
 
@@ -192,10 +197,10 @@ See [LICENSE](LICENSE) for details.
 <table>
 	<tr>
 		<td align="center" width="180">
-			<a href="https://github.com/hadzicni">
-				<img src="https://github.com/hadzicni.png?size=160" width="96" height="96" alt="hadzicni" style="border-radius: 50%;" />
-				<br />
-				<strong>hadzicni</strong>
+			<a href="https://github.com/USERNAME">
+			    <img src="https://github.com/USERNAME.png?size=160" width="96" height="96" alt="USERNAME" />
+			    <br />
+			    <strong>USERNAME</strong>
 			</a>
 			<br />
 			Core maintainer
